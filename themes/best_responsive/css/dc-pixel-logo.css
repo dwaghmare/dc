@@ -1,0 +1,12 @@
+/* drupalcrunch */
+#drupalcrunch { width:240px; height:120px; margin:0 auto; float: left; background-color: #fff; padding:20px 35px; }
+.pixel { width:10px; height:10px; float:left; }
+.shade1 { background-color:#58a7c2; }
+.shade2 { background-color:#007ca4; }
+.shade3 { background-color:#005a8f; }
+.shade4 { background-color:#003399; }
+
+#logo {
+    padding-top: 65px;
+    text-align: center;
+}
